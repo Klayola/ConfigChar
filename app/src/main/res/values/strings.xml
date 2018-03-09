@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ConfigChar</string>
+    <string name="titulo_crie_seu_personagem">Crie Seu Personagem</string>
+    <string name="label_nome">Nome Do Personagem</string>
+    <string name="label_sexo">Sexo</string>
+    <string name="label_menino">Menino</string>
+    <string name="label_menina">Menina</string>
+    <string name="lable_classes">Classes</string>
+    <string name="lable_forca">Força</string>
+    <string name="botao_criar">Criar</string>
+    <string name="label_rodape">Desenvolvido por Bia</string>
+
+    <string name="mago">Mago</string>
+    <string name="guerreiro">Guerreiro</string>
+    <string name="arqueiro">Arqueiro</string>
+    <string name="bardo">Bardo</string>
+    <string name="anao">Anão</string>
+    <string name="elfo">Elfo</string>
+</resources>
